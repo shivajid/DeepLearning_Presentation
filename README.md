@@ -1,6 +1,6 @@
 # DeepLearning Presentations
-This presentations were made in 2016 2017 for education purpose.
+This presentations was made in 2016 2017 for education purpose.
 
 Some of it has already surpassed the state of the art.
 
-Releasing this to the public.
+The content is made by Aurius LLC
