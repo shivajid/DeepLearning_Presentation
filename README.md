@@ -1,4 +1,4 @@
-# DeepLearning_Presentation
+# DeepLearning Presentations
 This presentations were made in 2016 2017 for education purpose.
 
 Some of it has already surpassed the state of the art.
